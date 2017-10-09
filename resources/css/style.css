@@ -1,15 +1,57 @@
 
 body {
-	background-image: url ("./resources/img/building.png");
+	text-align: center;
+	background-image: url ();
+}
+header {
+	background-color: grey;
+}
+h1 {
+	font-family: Helvetica;
+	font-size: 70px;
+	font-weight: bold;
+	color: white;
 }
 
-div {
-	width: 100%;
-	height: 100px;
-	
-}
 li {
-	color: white;
+	list-style: none;
 	text-align: center;
 	text-align: bottom;
+	font-family: Helvetica;
+	font-size: 18px;
+	color: white;
+}
+a {
+	color: white;
+}
+h2 {
+	font-family: Helvetica;
+	font-size: 32px;
+	font-weight: bold;
+}
+h3 {
+	font-family: Helvetica;
+	font-size: 23px;
+	font-weight: bold;
+}
+p {
+	font-family: Helvetica;
+	font-size: 14px;
+}
+h4 {
+	font-family: Helvetica;
+	font-size: 23px;
+	font-weight: bold;
+	color: grey;
+}
+div #bottom {
+	background-color: red;
+	width: 100percent;
+	height: 50px;
+}
+#copyright {
+	font-family: Helvetica;
+	font-size: 11px;
+	color: blue;
+	
 }

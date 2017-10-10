@@ -3,9 +3,13 @@ body {
 	text-align: center;
 	background-image: url ();
 }
-header {
-	background-color: grey;
+
+.dog {
+  background-image: url('https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png');
+  text-align: center;
+  color: white;
 }
+
 h1 {
 	font-family: Helvetica;
 	font-size: 70px;
@@ -42,16 +46,15 @@ h4 {
 	font-family: Helvetica;
 	font-size: 23px;
 	font-weight: bold;
-	color: grey;
+	color: white;
 }
-div #bottom {
-	background-color: red;
-	width: 100percent;
-	height: 50px;
+
+.bottom {
+	background-color: dimgrey;
 }
 #copyright {
 	font-family: Helvetica;
 	font-size: 11px;
-	color: blue;
+	color: white;
 	
 }
